@@ -1,3 +1,4 @@
+![Uploading Nubit Alpha Testnet is live!.jpg…]()
 
 Run a Light Node with One Command
 
