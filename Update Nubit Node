@@ -1,0 +1,19 @@
+Update Nubit Light Node to V2
+
+# List screens
+screen -ls
+
+# Terminate nubit screen (my screen name is nubit)
+screen -XS nubit quit
+
+# Open new screen
+screen -S nubit
+
+# Upgrade and Restart Node
+curl -sL1 https://nubit.sh/ | bash
+
+# Minimize Node screen
+Ctrl+A+D
+
+Save you PUBKEY & AUTHKEY
+https://private-user-images.githubusercontent.com/90371338/339867214-9e989e9c-4051-472d-9fe6-e7242ef63bdf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg0NTMzOTUsIm5iZiI6MTcxODQ1MzA5NSwicGF0aCI6Ii85MDM3MTMzOC8zMzk4NjcyMTQtOWU5ODllOWMtNDA1MS00NzJkLTlmZTYtZTcyNDJlZjYzYmRmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE1VDEyMDQ1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcwMWE1YTM5YmNjZTljM2ViMjIxMjFkOTQ5ZWZmNTA4ZDQwNjIwZGEyMTExOTA2ZTk1M2ZlMGE2YjNhYmVlYmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.agrOUv3jyftnYNkqcRwFPWkOrOKKoHDjCkhthOKrx3E
