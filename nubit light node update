@@ -1,0 +1,22 @@
+update node with these commands:
+
+run the node:
+
+screen -x nubit
+
+close the current node with:
+ctl + c
+
+update it by :
+
+curl -sL1 https://nubit.sh/ | bash
+
+check the seed phrase:
+
+cd
+cd nubit-node
+nano mnemonic.txt
+
+if it is the same then your node is updated.
+
+
