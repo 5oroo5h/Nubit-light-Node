@@ -1,21 +1,23 @@
-update node with these commands:
+update node with these commands
 
-run the node:
+**run the node:**  
 
-screen -x nubit
+```screen -x nubit```
 
-close the current node with:
+**close the current node with:**
 ctl + c
 
-update it by :
+**update it by :**
 
-curl -sL1 https://nubit.sh/ | bash
+```curl -sL1 https://nubit.sh/ | bash```
 
-check the seed phrase:
+**check the seed phrase:**  
 
+```
 cd
 cd nubit-node
 nano mnemonic.txt
+```
 
 if it is the same then your node is updated.
 
