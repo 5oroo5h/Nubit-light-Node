@@ -2,9 +2,9 @@
 
 Run a Light Node with One Command
 
-config : 1- 2 core ,
-ram - 500  - 1000 MB , 
-ssd - 40 - 100 GB , 
+config :   1- 2 core ,  
+ram - 500  - 1000 MB ,   
+ssd - 40 - 100 GB ,   
 
 https://docs.nubit.org/nubit-da/run-a-node-advanced
 
